@@ -6,10 +6,11 @@
 
 ### ADBio User Study
 
-* GitHub repository: https://github.com/ActiveDataBio/ADB-User-Study
+* Original GitHub repository: https://github.com/ActiveDataBio/ADB-User-Study
   * [metadata.tsv](https://github.com/ActiveDataBio/ADB-User-Study/blob/master/metadata.tsv)
   * [dataset.csv](https://github.com/ActiveDataBio/ADB-User-Study/blob/master/dataset.csv)
-  
+* Frictionless Data pilot fork: https://github.com/frictionlessdata/ADB-User-Study
+
 ### Prochlorococcus 
 
 * GitHub repository: https://github.com/ActiveDataBio/Prochlorococcus
